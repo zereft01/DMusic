@@ -1,11 +1,4 @@
 #!/bin/bash
-# echo "Para usar esta herramientas necesitas instalar - youtube-dl y -ffmpeg "
-#INSTALACIÓN VIA APT (Debian y derivados del mismo)
-	#sudo apt install ffmpeg
-	#sudo apt install youtube-dl
-
-#INSTALACIÓN VIA PIP/PIP3
-#pip install yotube-dl o pip3 install youtube-dl
 
 lineas="===================================="
 red='\033[1;31m'                                        
@@ -25,7 +18,7 @@ echo "  ╔═ ╔╔ ║ ║╔═╝╝╔═╝  ═║  ╔═║
 
 echo $lineas
 
-read -p "Que quieres descargar:
+read -p "¿Que quieres descargar?
  [1] Canción 
  [2] Playlist 
  [3] Salir " arch
@@ -63,7 +56,7 @@ case $arch in
 		;;
 	 [*])
 		echo $lineas
-		echo "ADIOS"
+		echo "Adiós"
 		echo $lineas
 esac
 		
