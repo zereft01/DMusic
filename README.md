@@ -47,4 +47,4 @@ Dudas, sugerencias, comentarios, etc al correo.
 !!El conocimiento es libre!!
 
 #ACTUALIZACIONES:
-----Descarga portadas.
+----Descarga portadas. las caratulas que tiene cada video.
