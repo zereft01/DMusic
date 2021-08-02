@@ -5,10 +5,9 @@
 #Contacto:
 #Correo: kullia.kg55@gmail.com
 #Telegram Alias: zereft
-------------------------------------------------------
-#AÚN ESTA EN DESARROLLO !!!!
-------------------------------------------------------
+---
 IMPORTANTE
+---
 Para que funcione corectamente debes tener instado youtube-dl y ffmpeg. (Ya esta en lista el desarrollo de un script de instalación automatizada.)
 
 Instalación de herramientas necesarias.
