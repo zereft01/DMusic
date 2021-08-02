@@ -35,17 +35,15 @@ Clonar repositorio:
 Abrir repositorio:
   > cd DMusic
 Dar permisos al script:
-  > chmod +x DMusic.sh
+  > chmod +x DMusic
 Ejecutar:
-  ./DMusic.sh o bash DMusic.sh
+  ./DMusic
  
 Seguir instrucciones del script para descargar música....
 Si quieres ejecutarlo desde cualquier lugar sin estar dentro de la carpeta debes mover el script a donde estan los binarios, en general es esta ruta: /usr/bin . Con esto solo deberas escribir el nombre y se ejecutara 
 -------------------------------------------------------
 Dudas, sugerencias, comentarios, etc al correo.
 
-!!El conocimiento es libre!!
-
 #ACTUALIZACIONES:
-----Descarga portadas. las caratula que tiene cada video.
+----Descarga portadas (las caratula que tiene cada video).
 
