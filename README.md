@@ -33,14 +33,15 @@ INSTALACIÓN EN ANDROID (TERMUX); Es necesario tener instalado python y pip para
   
 ------------------------------------------------------
 USO: 
-Clonar repositorio:
-  > git clone https://github.com/zereft01/DMusic
-Abrir repositorio:
-  > cd DMusic
-Dar permisos al script:
-  > chmod +x DMusic
-Ejecutar:
-  > ./DMusic
+
+	Clonar repositorio:
+	   git clone https://github.com/zereft01/DMusic
+	Abrir repositorio:
+	   cd DMusic
+	Dar permisos al script:
+	   chmod +x DMusic
+	Ejecutar:
+	   ./DMusic
  
 Seguir instrucciones del script para descargar música....
 Si quieres ejecutarlo desde cualquier lugar sin estar dentro de la carpeta debes mover el script a donde estan los binarios, en general es esta ruta: /usr/bin . Con esto solo deberas escribir el nombre y se ejecutara 
